@@ -1,0 +1,138 @@
+Engine,Miles,Service Iteam,Cost
+4 CYL Car,15K Service,Air Filter,29.95
+4 CYL Car,15K Service,Cabin Filter,79.95
+4 CYL Car,15K Service,Engine Oil Supplement,14.99
+4 CYL Car,15K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL Car,15K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+4 CYL SUV,15K Service,Air Filter,29.95
+4 CYL SUV,15K Service,Cabin Filter,79.95
+4 CYL SUV,15K Service,Engine Oil Supplement,14.99
+4 CYL SUV,15K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL SUV,15K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+6 CYL SUV,15K Service,Air Filter,29.95
+6 CYL SUV,15K Service,Cabin Filter,79.95
+6 CYL SUV,15K Service,Engine Oil Supplement,14.99
+6 CYL SUV,15K Service,GDI Injection clean and throttle body clean,259.99
+6 CYL SUV,15K Service,"Oil Change, Tire Rotate, Car Wash",29.99
+4 CYL Car,30K Service,Air Filter,29.95
+4 CYL Car,30K Service,Cabin Filter,79.95
+4 CYL Car,30K Service,Engine Oil supplement and cleaning system,89.99
+4 CYL Car,30K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL Car,30K Service,Brake Fluid Flush,199.99
+4 CYL Car,30K Service,Power Steering Flush,149.99
+4 CYL Car,30K Service,Ethanol Defender fuel system additive,34.99
+4 CYL Car,30K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+4 CYL SUV,30K Service,Air Filter,29.95
+4 CYL SUV,30K Service,Cabin Filter,79.95
+4 CYL SUV,30K Service,Engine Oil supplement and cleaning system,89.99
+4 CYL SUV,30K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL SUV,30K Service,Brake Fluid Flush,199.99
+4 CYL SUV,30K Service,Power Steering Flush,149.99
+4 CYL SUV,30K Service,Ethanol Defender fuel system additive,34.99
+4 CYL SUV,30K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+6 CYL SUV,30K Service,Air Filter,29.95
+6 CYL SUV,30K Service,Cabin Filter,79.95
+6 CYL SUV,30K Service,Engine Oil supplement and cleaning system,89.99
+6 CYL SUV,30K Service,GDI Injection clean and throttle body clean,259.99
+6 CYL SUV,30K Service,Brake Fluid Flush,199.99
+6 CYL SUV,30K Service,Power Steering Flush,149.99
+6 CYL SUV,30K Service,Ethanol Defender fuel system additive,34.99
+6 CYL SUV,30K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+4 CYL Car,60K Service,Air Filter,29.95
+4 CYL Car,60K Service,Cabin Filter,79.95
+4 CYL Car,60K Service,Engine Oil supplement and cleaning system,89.99
+4 CYL Car,60K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL Car,60K Service,Brake Fluid Flush,199.99
+4 CYL Car,60K Service,Power Steering Flush,149.99
+4 CYL Car,60K Service,Ethanol Defender fuel system additive,34.99
+4 CYL Car,60K Service,Automatic Transmission Fluid Service,299.99
+4 CYL Car,60K Service,Spark Plug Replacement,249.99
+4 CYL Car,60K Service,Cooling system Flush,249.99
+4 CYL Car,60K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+4 CYL SUV,60K Service,Air Filter,29.95
+4 CYL SUV,60K Service,Cabin Filter,79.95
+4 CYL SUV,60K Service,Engine Oil supplement and cleaning system,89.99
+4 CYL SUV,60K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL SUV,60K Service,Brake Fluid Flush,199.99
+4 CYL SUV,60K Service,Power Steering Flush,149.99
+4 CYL SUV,60K Service,Ethanol Defender fuel system additive,34.99
+4 CYL SUV,60K Service,Automatic Transmission Fluid Service,299.99
+4 CYL SUV,60K Service,Rear Differential Service,99.99
+4 CYL SUV,60K Service,Transfer Case Service,99.99
+4 CYL SUV,60K Service,Spark Plug Replacement,249.99
+4 CYL SUV,60K Service,Cooling system Flush,249.99
+4 CYL SUV,60K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+6 CYL SUV,60K Service,Air Filter,29.95
+6 CYL SUV,60K Service,Cabin Filter,79.95
+6 CYL SUV,60K Service,Engine Oil supplement and cleaning system,89.99
+6 CYL SUV,60K Service,GDI Injection clean and throttle body clean,259.99
+6 CYL SUV,60K Service,Brake Fluid Flush,199.99
+6 CYL SUV,60K Service,Power Steering Flush,149.99
+6 CYL SUV,60K Service,Ethanol Defender fuel system additive,34.99
+6 CYL SUV,60K Service,Automatic Transmission Fluid Service,299.99
+6 CYL SUV,60K Service,Rear Differential Service,99.99
+6 CYL SUV,60K Service,Transfer Case Service,99.99
+6 CYL SUV,60K Service,Spark Plug Replacement,374.99
+6 CYL SUV,60K Service,Cooling system Flush,249.99
+6 CYL SUV,60K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+4 CYL Car,90K Service,Air Filter,29.95
+4 CYL Car,90K Service,Cabin Filter,79.95
+4 CYL Car,90K Service,Engine Oil supplement and cleaning system,89.99
+4 CYL Car,90K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL Car,90K Service,Brake Fluid Flush,199.99
+4 CYL Car,90K Service,Power Steering Flush,149.99
+4 CYL Car,90K Service,Ethanol Defender fuel system additive,34.99
+4 CYL Car,90K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+4 CYL SUV,90K Service,Air Filter,29.95
+4 CYL SUV,90K Service,Cabin Filter,79.95
+4 CYL SUV,90K Service,Engine Oil supplement and cleaning system,89.99
+4 CYL SUV,90K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL SUV,90K Service,Brake Fluid Flush,199.99
+4 CYL SUV,90K Service,Power Steering Flush,149.99
+4 CYL SUV,90K Service,Ethanol Defender fuel system additive,34.99
+4 CYL SUV,90K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+6 CYL SUV,90K Service,Air Filter,29.95
+6 CYL SUV,90K Service,Cabin Filter,79.95
+6 CYL SUV,90K Service,Engine Oil supplement and cleaning system,89.99
+6 CYL SUV,90K Service,GDI Injection clean and throttle body clean,259.99
+6 CYL SUV,90K Service,Brake Fluid Flush,199.99
+6 CYL SUV,90K Service,Power Steering Flush,149.99
+6 CYL SUV,90K Service,Ethanol Defender fuel system additive,34.99
+6 CYL SUV,90K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+4 CYL Car,120K Service,Air Filter,29.95
+4 CYL Car,120K Service,Cabin Filter,79.95
+4 CYL Car,120K Service,Engine Oil supplement and cleaning system,89.99
+4 CYL Car,120K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL Car,120K Service,Brake Fluid Flush,199.99
+4 CYL Car,120K Service,Power Steering Flush,149.99
+4 CYL Car,120K Service,Ethanol Defender fuel system additive,34.99
+4 CYL Car,120K Service,Automatic Transmission Fluid Service,299.99
+4 CYL Car,120K Service,Spark Plug Replacement,249.99
+4 CYL Car,120K Service,Cooling system Flush,249.99
+4 CYL Car,120K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+4 CYL SUV,120K Service,Air Filter,29.95
+4 CYL SUV,120K Service,Cabin Filter,79.95
+4 CYL SUV,120K Service,Engine Oil supplement and cleaning system,89.99
+4 CYL SUV,120K Service,GDI Injection clean and throttle body clean,259.99
+4 CYL SUV,120K Service,Brake Fluid Flush,199.99
+4 CYL SUV,120K Service,Power Steering Flush,149.99
+4 CYL SUV,120K Service,Ethanol Defender fuel system additive,34.99
+4 CYL SUV,120K Service,Automatic Transmission Fluid Service,299.99
+4 CYL SUV,120K Service,Rear Differential Service,99.99
+4 CYL SUV,120K Service,Transfer Case Service,99.99
+4 CYL SUV,120K Service,Spark Plug Replacement,249.99
+4 CYL SUV,120K Service,Cooling system Flush,249.99
+4 CYL SUV,120K Service,"Oil Change, Tire Rotate, Car Wash",89.95
+6 CYL SUV,120K Service,Air Filter,29.95
+6 CYL SUV,120K Service,Cabin Filter,79.95
+6 CYL SUV,120K Service,Engine Oil supplement and cleaning system,89.99
+6 CYL SUV,120K Service,GDI Injection clean and throttle body clean,259.99
+6 CYL SUV,120K Service,Brake Fluid Flush,199.99
+6 CYL SUV,120K Service,Power Steering Flush,149.99
+6 CYL SUV,120K Service,Ethanol Defender fuel system additive,34.99
+6 CYL SUV,120K Service,Automatic Transmission Fluid Service,299.99
+6 CYL SUV,120K Service,Rear Differential Service,99.99
+6 CYL SUV,120K Service,Transfer Case Service,99.99
+6 CYL SUV,120K Service,Spark Plug Replacement,374.99
+6 CYL SUV,120K Service,Cooling system Flush,249.99
+6 CYL SUV,120K Service,"Oil Change, Tire Rotate, Car Wash",89.95
